@@ -35,6 +35,11 @@
            <beast>100%</beast
 	</studerende>
 	
+	<studerende>
+		<navn>Kiki Petersen</navn>
+		<alder>25</alder>
+	</studerende>
+	
 </klasse>
 
 <klasse> 
