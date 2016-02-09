@@ -39,6 +39,11 @@
 		<navn>Kiki Petersen</navn>
 		<alder>25</alder>
 	</studerende>
+               
+    <studerende>
+        <navn>Mathias Nielsen</navn>
+        <alder>20</alder>
+    </studerende>
 	
 </klasse>
 
