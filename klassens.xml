@@ -6,6 +6,11 @@
 	   <navn>Mads Nielsen</navn>
 	   <alder>23</alder>
 	</studerende>
+
+	<studerende>
+	   <navn>Andreas Eldrup Krog</navn>
+	   <alder>22</alder>
+	</studerende>
 		
 </klasse>
 
