@@ -8,6 +8,7 @@
 	</studerende>
 	
 	<studerende>
+<<<<<<< HEAD
 		<navn>Jim Gislinge</navn>
 		<alder>20</alder>
 	</studerende>
@@ -16,7 +17,24 @@
 	
 	
 	
+=======
+	    <navn>Marcus Rasmussen</navn>
+	    <alder>19</alder>
+	    <swag>420%</swag>
+	</studerende>
+    
+    <studerende>
+	    <navn>Lonnie Rosgaard Hansen</navn>
+	    <alder>33</alder>
+	</studerende>
+>>>>>>> origin/master
 		
+		<studerende>
+	   <navn>Lynch ‘the Beast’</navn>
+	   <alder>24</alder>
+           <beast>100%</beast
+	</studerende>
+	
 </klasse>
 
 <klasse> 
