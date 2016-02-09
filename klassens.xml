@@ -1,6 +1,10 @@
 <skole>
 
 <klasse antalelever="25">
+    
+    <studerende>Pernille Faber Johannesen
+    <alder>512</alder>
+    </studerende>
 
 	<studerende>
 	   <navn>Mads Nielsen</navn>
