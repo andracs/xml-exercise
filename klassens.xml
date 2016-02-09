@@ -6,7 +6,16 @@
 	   <navn>Mads Nielsen</navn>
 	   <alder>23</alder>
 	</studerende>
+	
+	<studerende>
+		<navn>Jim Gislinge</navn>
 		<alder>20</alder>
+	</studerende>
+	
+	
+	
+	
+	
 		
 </klasse>
 
