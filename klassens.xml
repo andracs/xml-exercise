@@ -1,56 +1,50 @@
 <skole>
 
-<klasse antalelever="25">
+    <klasse antalelever="25">
 
-	<studerende>
-	   <navn>Mads Nielsen</navn>
-	   <alder>23</alder>
-	</studerende>
-	
-	<studerende>
-<<<<<<< HEAD
-		<navn>Jim Gislinge</navn>
-		<alder>20</alder>
-	</studerende>
-	
-	
-	
-	
-	
-=======
-	    <navn>Marcus Rasmussen</navn>
-	    <alder>19</alder>
-	    <swag>420%</swag>
-	</studerende>
-    
-    <studerende>
-	    <navn>Lonnie Rosgaard Hansen</navn>
-	    <alder>33</alder>
-	</studerende>
->>>>>>> origin/master
-		
-		<studerende>
-	   <navn>Lynch ‘the Beast’</navn>
-	   <alder>24</alder>
-           <beast>100%</beast
-	</studerende>
-	
-	<studerende>
-		<navn>Kiki Petersen</navn>
-		<alder>25</alder>
-	</studerende>
-               
-    <studerende>
-        <navn>Mathias Nielsen</navn>
-        <alder>20</alder>
-    </studerende>
-	
-</klasse>
+        <studerende>
+            <navn>Mads Nielsen</navn>
+            <alder>23</alder>
+        </studerende>
 
-<klasse> 
+        <studerende>
+            <navn>Jim Gislinge</navn>
+            <alder>20</alder>
+        </studerende>
 
-	flere klasser.... 
+        <studerende>
+            <navn>Marcus Rasmussen</navn>
+            <alder>19</alder>
+            <swag>420%</swag>
+        </studerende>
 
-</klasse>
+        <studerende>
+            <navn>Lonnie Rosgaard Hansen</navn>
+            <alder>33</alder>
+        </studerende>
+
+        <studerende>
+            <navn>Lynch ‘the Beast’</navn>
+            <alder>24</alder>
+            <beast>100%</beast>
+        </studerende>
+
+        <studerende>
+            <navn>Kiki Petersen</navn>
+            <alder>25</alder>
+        </studerende>
+
+        <studerende>
+            <navn>Mathias Nielsen</navn>
+            <alder>20</alder>
+        </studerende>
+
+    </klasse>
+
+    <klasse>
+
+        flere klasser....
+
+    </klasse>
 
 </skole>
