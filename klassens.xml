@@ -6,6 +6,12 @@
 	   <navn>Mads Nielsen</navn>
 	   <alder>23</alder>
 	</studerende>
+	
+	<studerende>
+	    <navn>Marcus Rasmussen</navn>
+	    <alder>19</alder>
+	    <swag>420%</swag>
+	</studerende>
 		
 </klasse>
 
