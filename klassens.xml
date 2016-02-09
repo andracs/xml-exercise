@@ -6,17 +6,7 @@
 	   <navn>Mads Nielsen</navn>
 	   <alder>23</alder>
 	</studerende>
-	
-	<studerende>
-	   <navn>Marcus Rasmussen</navn>
-	   <alder>19</alder>
-	</studerende>
-	
-	<studerende>
-	   <navn>Lonnie Hansen</navn>
-	   <alder>22</alder>
-	</studerende>
-	
+		
 </klasse>
 
 <klasse> 
